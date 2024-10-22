@@ -1,1 +1,1 @@
-# Original-calculator-
+This calculator is made for emtertainment
